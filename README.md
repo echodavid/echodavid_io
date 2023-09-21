@@ -1,11 +1,14 @@
-### Hi there 👋
+## Hi there 👋, I'm David Espinosa! ;)
 
+I'm a software enginner student at the Universidad Veracruzana![Universidad Veracruzana Logo.]((https://upload.wikimedia.org/wikipedia/commons/8/8f/Logo_de_la_Universidad_Veracruzana.svg))
+
+ 🔭 I have a huge interest in FrontStack, but i'd like to become a FullStack Develper.
 <!--
 **echodavid/echodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
