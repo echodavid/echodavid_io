@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm David Espinosa! ;)
 
-I'm a software enginner student at the Universidad Veracruzana![Universidad Veracruzana Logo.](https://upload.wikimedia.org/wikipedia/commons/8/8f/Logo_de_la_Universidad_Veracruzana.svg)
+I'm a software enginner student at the Universidad Veracruzana![Universidad Veracruzana Logo.](https://seeklogo.com/images/U/universidad-veracruzana-logo-39D4259CB5-seeklogo.com.png)
 
  🔭 I have a huge interest in FrontStack, but i'd like to become a FullStack Develper.
 <!--
