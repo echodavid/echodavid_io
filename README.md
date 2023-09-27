@@ -4,7 +4,7 @@ I'm a software enginner student at the Universidad Veracruzana
 
 ![Universidad Veracruzana Logo.](https://seeklogo.com/images/U/universidad-veracruzana-logo-39D4259CB5-seeklogo.com.png)
 
- 🔭 I have a huge interest in FrontStack, but i'd like to become a FullStack Develper.
+ 🔭 I have a huge interest in Frontend, but i'd like to become a FullStack Develper.
 <!--
 **echodavid/echodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
